@@ -1,11 +1,11 @@
-package org.tnsif.client;
+/*package org.tnsif.client;
 import java.util.Scanner;
 import org.tnsif.entities.Student;
 import org.tnsif.service.StudentService;
 import org.tnsif.service.StudentServiceImpl;
 public class Client {
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		StudentService service=new StudentServiceImpl();
 		Scanner s=new Scanner(System.in);
 	
@@ -36,10 +36,10 @@ public class Client {
 		System.out.println("Successfully done!");*/
 		
 		//delete
-		System.out.println("Enter the rollno that want to delete");
+		/*System.out.println("Enter the rollno that want to delete");
 		s1=service.get(s.nextInt());
 		service.delete(s1);
-		System.out.println("Deleted Successfully");
+		System.out.println("Deleted Successfully");*/
 		
 		
 	}

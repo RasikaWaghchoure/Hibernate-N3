@@ -1,4 +1,4 @@
-package org.tnsif.dao;
+/*package org.tnsif.dao;
 import javax.persistence.EntityManager;
 import org.tnsif.entities.Student;
 
@@ -51,4 +51,4 @@ public class StudentDaoImpl implements StudentDao{
 		em.getTransaction().commit();		
 	}
 
-}
+}*/
